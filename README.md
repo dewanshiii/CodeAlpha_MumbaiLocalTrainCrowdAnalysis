@@ -67,6 +67,30 @@ Analysis Performed
 - Data visualization using graphs and charts.
 - Insights based on passenger traffic.
 
+Exploratory Data Analysis (EDA)
+
+The project includes 6 major EDA analyses:
+
+1. Top 10 Busiest Railway Stations.
+2. Railway Line Passenger Comparison.
+3. Authorised vs Unauthorised Passengers.
+4. Average Passengers per Station.
+5. Top 5 Stations by Unauthorised Passengers.
+6. Passenger Distribution Percentage Across Railway Lines.
+
+Data Visualizations
+
+The project includes 6 visualizations created using Matplotlib and Seaborn.
+
+ 1. Railway Line Comparison
+ 2. Top 10 Busiest Stations
+ 3. Passenger Distribution
+ 4. Authorised vs Unauthorised Passengers
+ 5. Average Passengers per Station
+ 6. Top 5 Stations by Unauthorised Passengers
+
+These analyses help understand passenger traffic and identify stations and railway lines with higher passenger counts.
+
 Expected Outcomes
 
 - Identification of busy travel hours.
